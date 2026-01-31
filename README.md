@@ -2,7 +2,7 @@
   Oracle
 </h1>
 
-<h4 align="center">Oracle is a lightweight personal note taking system, designed for power users</h4>
+<h4 align="center">A lightweight personal note taking system, designed for power users</h4>
 
 <h4 align="center">
   <a href="#features">Features</a>&nbsp;|&nbsp;
