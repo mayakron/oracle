@@ -11,7 +11,7 @@
   <a href="#license">License</a>
 </h4>
 
-![Query tab screenshot](https://raw.githubusercontent.com/mayakron/cry/main/resources/OracleMainScreenshot.png)
+![Query tab screenshot](https://raw.githubusercontent.com/mayakron/oracle/main/resources/OracleMainScreenshot.png)
 
 ## Features
 
